@@ -1,0 +1,14 @@
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\exercicios\WebApplication1\ConsoleAplication\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
